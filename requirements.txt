@@ -1,0 +1,2 @@
+# No additional dependencies required
+# Uses built-in urllib.request
