@@ -44,7 +44,7 @@ python scripts/siliconflow-image.py "cat" -o cat.png --optimize
 python scripts/siliconflow-image.py "cat" -o cat.png --optimize --style anime --quality high
 
 # Image-to-Image
-python scripts/siliconflow-image.py "变成水彩画" -o output.png --ref input.png
+python scripts/siliconflow-image.py "Convert to watercolor" -o output.png --ref input.png
 ```
 
 ## 🎛️ Arguments
